@@ -1,5 +1,6 @@
 # DSS-PROJECT
 A Distributed Peer to Peer File sharing Network
+Done as a part of Distributed Systems Course at IIIT-Allahabad
 ***every client should be connected to same network as the server for the code to work
 
 /* Steps to run the code */
